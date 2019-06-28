@@ -11,7 +11,7 @@
   "author": "Anthony Cleaver",
   "license": "ISC",
   "devDependencies": {
-    "@cleavera/config": "^1.1.0",
+    "@cleavera/config": "^1.2.0",
     "@cleavera/utils": "^3.4.0",
     "@types/glob": "^7.1.1",
     "@types/node": "^12.0.10",
