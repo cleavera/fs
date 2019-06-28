@@ -11,6 +11,7 @@
   "author": "Anthony Cleaver",
   "license": "ISC",
   "devDependencies": {
+    "@cleavera/config": "^1.1.0",
     "@types/glob": "^7.1.1",
     "@types/node": "^10.12.15",
     "@types/rimraf": "^2.0.2",
